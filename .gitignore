@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.ipynb_checkpoints
+
+# Virtual Environment
+venv/
+env/
+.venv/
+ENV/
+
+# IDEs & Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Logs & Outputs
+*.log
+*.out
+*.err
+
+# Model Checkpoints
+*.pth
+*.pt
+checkpoints/
+models/
+
+# Dataset
+data/
+datasets/
+*.zip
+*.tar.gz
+
+# Videos & Images
+*.mp4
+*.avi
+*.mov
+*.jpg
+*.jpeg
+*.png
+
+# Cache
+.cache/
+*.cache
+*.pkl
+*.joblib
+
+# Environment files
+.env
+.env.*
+
+# PyTorch Lightning or tensorboard
+lightning_logs/
+tb_logs/
+
+# OS
+.DS_Store
+Thumbs.db
